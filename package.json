@@ -22,5 +22,8 @@
   "homepage": "https://github.com/AlexandrRumiantsev/frontend-project-44#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^10.0.3"
   }
 }
